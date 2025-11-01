@@ -4,4 +4,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lovera-a18136295/) 
 
 <img width="350" align="right" src='https://github-readme-stats.vercel.app/api?username=LoveraThur&show_icons=true&theme=tokyonight'/>
-[![Linguagens](https://api.devicons.dev.br/icon?icons=Python%2CGit%2CGithub&size=48&theme=dark&perline=30)
+
+### Knowledges
+
+[![Linguagens](https://api.devicons.dev.br/icon?icons=Python%2CGit%2CGithub&size=48&theme=dark&perline=30)](https://devicons.dev.br/)
+
