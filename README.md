@@ -10,5 +10,5 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/Lovera.Thur/?hl=pt-br) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-lovera-a18136295/) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.www.linkedin.com/in/arthurlovera/) 
 
